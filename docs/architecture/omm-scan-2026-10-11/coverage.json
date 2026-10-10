@@ -1,0 +1,14 @@
+{
+  "repo": "FORIFOR/awesome-generative-ai",
+  "branch": "main",
+  "tree_sha": "6f671cb736bb15dd4962ab81ddde622c5e875890",
+  "tree_files": 8,
+  "read_files": [
+    {
+      "path": "README.md",
+      "sha": "91dcace5a1a03eb116fb8bfe8de264d7deb77a9e"
+    }
+  ],
+  "not_read_count": 7,
+  "scope": "initial entry-point and direct-import analysis; not exhaustive semantic scan"
+}
